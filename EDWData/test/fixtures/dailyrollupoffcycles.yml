@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Server: MyString
+  ElapseTime: 1.5
+  RollupDate: 2015-08-20 14:21:14
+  Start_TS: 2015-08-20 14:21:14
+  End_TS: 2015-08-20 14:21:14
+  OffCycleType: MyString
+
+two:
+  Server: MyString
+  ElapseTime: 1.5
+  RollupDate: 2015-08-20 14:21:14
+  Start_TS: 2015-08-20 14:21:14
+  End_TS: 2015-08-20 14:21:14
+  OffCycleType: MyString

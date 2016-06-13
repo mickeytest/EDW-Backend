@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  MID: MyString
+  Server: MyString
+  RollupDate: 2015-08-27 16:28:49
+  EST: 1.5
+  EET: 1.5
+  LST: 1.5
+  LET: 1.5
+  Slack: 1.5
+
+two:
+  MID: MyString
+  Server: MyString
+  RollupDate: 2015-08-27 16:28:49
+  EST: 1.5
+  EET: 1.5
+  LST: 1.5
+  LET: 1.5
+  Slack: 1.5

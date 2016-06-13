@@ -1,0 +1,45 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  RollupDate: 2015-09-24 14:44:15
+  Start_TS: 2015-09-24 14:44:15
+  End_TS: 2015-09-24 14:44:15
+  ElapseTime: 1.5
+  DiskIOTotal: 1
+  CPUBusySecs: 1
+  MemAllocMb: 1
+  MemUsedMb: 1
+  RowsRetrievedTotal: MyString
+  DiskIONorm: 1.5
+  CPUBusyNorm: 1.5
+  MemAllocNorm: 1.5
+  MemUsedNorm: 1.5
+  RowsAccessedNorm: MyString
+  RowsIUDNorm: MyString
+  RowsRetrievedNorm: 1.5
+  RowsAccessed: MyString
+  RowsIUDTotal: MyString
+  FileSize: 1.5
+  Environment: MyString
+
+two:
+  RollupDate: 2015-09-24 14:44:15
+  Start_TS: 2015-09-24 14:44:15
+  End_TS: 2015-09-24 14:44:15
+  ElapseTime: 1.5
+  DiskIOTotal: 1
+  CPUBusySecs: 1
+  MemAllocMb: 1
+  MemUsedMb: 1
+  RowsRetrievedTotal: MyString
+  DiskIONorm: 1.5
+  CPUBusyNorm: 1.5
+  MemAllocNorm: 1.5
+  MemUsedNorm: 1.5
+  RowsAccessedNorm: MyString
+  RowsIUDNorm: MyString
+  RowsRetrievedNorm: 1.5
+  RowsAccessed: MyString
+  RowsIUDTotal: MyString
+  FileSize: 1.5
+  Environment: MyString

@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ID: 1
+  RollupDate: 2015-08-17 10:54:21
+  MID: 1.5
+  BatchID: 1
+  Average30days: 2015-08-17 10:54:21
+
+two:
+  ID: 1
+  RollupDate: 2015-08-17 10:54:21
+  MID: 1.5
+  BatchID: 1
+  Average30days: 2015-08-17 10:54:21

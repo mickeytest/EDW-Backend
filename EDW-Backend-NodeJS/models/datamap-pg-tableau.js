@@ -1,0 +1,53 @@
+﻿//var currentDataMapList = {
+//    "_aclitem": "",
+//    "_char": "",
+//    "_float4": "",
+//    "_int2": "",
+//    "_name": "",
+//    "_oid": "",
+//    "_regtype": "",
+//    "_text": "",
+//    "abstime": "",
+//    "anyarray": "",
+//    "bool": "",
+//    "bpchar": "",
+//    "bytea": "",
+//    "char": "",
+//    "date": "",
+//    "float4": "",
+//    "float8": "",
+//    "inet": "",
+//    "int2": "",
+//    "int2vecto": "", 
+//    "int4": "",
+//    "int8": "",
+//    "interval": "",
+//    "name": "",
+//    "oid": "",
+//    "oidvecto": "", 
+//    "pg_node_tree": "",
+//    "regproc": "",
+//    "text": "",
+//    "timestamp": "",
+//    "timestamptz": "",
+//    "varchar": "",
+//    "xid": ""
+//};
+
+var currentDataMapList = {
+    "bpchar": "string",
+    "date": "date",
+    "float8": "float",
+    "int4": "int",
+    "int8": "int",
+    "text": "string",
+    "timestamp": "datetime",
+    "varchar": "string",
+    "text": "string",
+    "bool": "bool",
+    "char": "string",
+    "float4": "float",
+    "timestamptz": "datetime"
+};
+
+module.exports = currentDataMapList;

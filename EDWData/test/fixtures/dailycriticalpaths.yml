@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  DCPID: 1
+  RollupDate: 2015-08-14 16:33:55
+  Server: MyString
+  CriticalPath: MyString
+
+two:
+  DCPID: 1
+  RollupDate: 2015-08-14 16:33:55
+  Server: MyString
+  CriticalPath: MyString

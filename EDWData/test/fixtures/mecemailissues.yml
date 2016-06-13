@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  MECEMailIssue: 1
+  TrackID: 1
+  MECEmailID: 1
+
+two:
+  MECEMailIssue: 1
+  TrackID: 1
+  MECEmailID: 1

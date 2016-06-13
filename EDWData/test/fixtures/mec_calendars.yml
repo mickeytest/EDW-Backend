@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Month: 1
+  Year: 1
+  MECStartDate: 2015-10-09 15:59:29
+  MECEndDate: 2015-10-09 15:59:29
+  Environment: MyString
+
+two:
+  Month: 1
+  Year: 1
+  MECStartDate: 2015-10-09 15:59:29
+  MECEndDate: 2015-10-09 15:59:29
+  Environment: MyString

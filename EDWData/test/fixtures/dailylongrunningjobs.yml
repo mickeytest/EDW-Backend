@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Id: 1
+  Server: MyString
+  MasterID: 1
+  Delay: MyString
+  BatchID: 1
+  Start_TS: 2015-08-14 16:41:35
+  End_TS: 2015-08-14 16:41:35
+  Real_Delay: MyString
+
+two:
+  Id: 1
+  Server: MyString
+  MasterID: 1
+  Delay: MyString
+  BatchID: 1
+  Start_TS: 2015-08-14 16:41:35
+  End_TS: 2015-08-14 16:41:35
+  Real_Delay: MyString

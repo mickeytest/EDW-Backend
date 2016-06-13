@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  DailyRollupTimeID: 1
+  Server: MyString
+  ElapseTime: 1.5
+  RollupDate: 2015-08-14 16:50:41
+  Start_TS: 2015-08-14 16:50:41
+  End_TS: 2015-08-14 16:50:41
+
+two:
+  DailyRollupTimeID: 1
+  Server: MyString
+  ElapseTime: 1.5
+  RollupDate: 2015-08-14 16:50:41
+  Start_TS: 2015-08-14 16:50:41
+  End_TS: 2015-08-14 16:50:41

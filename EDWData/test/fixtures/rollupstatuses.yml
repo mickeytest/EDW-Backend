@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  BATCH_ID: MyString
+  DURATION: 1.5
+  EVENT_ID: MyString
+  MID: MyString
+  SERVER: MyString
+  EVENT_TYPE: MyString
+  Start_TS: 2015-08-20 16:35:09
+  End_TS: 2015-08-20 16:35:09
+  DATA_SUBJ: MyString
+  PORTFOLIO: MyString
+
+two:
+  BATCH_ID: MyString
+  DURATION: 1.5
+  EVENT_ID: MyString
+  MID: MyString
+  SERVER: MyString
+  EVENT_TYPE: MyString
+  Start_TS: 2015-08-20 16:35:09
+  End_TS: 2015-08-20 16:35:09
+  DATA_SUBJ: MyString
+  PORTFOLIO: MyString

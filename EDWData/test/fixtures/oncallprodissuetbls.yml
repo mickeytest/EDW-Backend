@@ -1,0 +1,57 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  IssueID: 1
+  ApplicationName: MyString
+  ServerName: MyString
+  JobID: 1
+  MasterID: 1
+  JobName: MyString
+  ErrorDescription: MyString
+  IssueDate: 2015-08-18 11:20:27
+  EngagementTime: 2015-08-18 11:20:27
+  JobRecoveredTime: 2015-08-18 11:20:27
+  TimeToFix: MyString
+  RecoveryActDesc: MyString
+  Attachments: MyText
+  HandledBy: 1
+  RootCause: 1
+  ResolutionOwner: MyString
+  ResolutionStatus: MyString
+  ResolvedInProdDate: 2015-08-18 11:20:27
+  EngagementTimeHrMn: MyString
+  JobRecoveredTimeHrMn: MyString
+  AttachmentName: MyString
+  SubmitIssueTimeStamp: 2015-08-18 11:20:27
+  WhenStartWorking: 2015-08-18 11:20:27
+  AOContact: MyString
+  AOReason: MyString
+  TimeToEngage: MyString
+
+two:
+  IssueID: 1
+  ApplicationName: MyString
+  ServerName: MyString
+  JobID: 1
+  MasterID: 1
+  JobName: MyString
+  ErrorDescription: MyString
+  IssueDate: 2015-08-18 11:20:27
+  EngagementTime: 2015-08-18 11:20:27
+  JobRecoveredTime: 2015-08-18 11:20:27
+  TimeToFix: MyString
+  RecoveryActDesc: MyString
+  Attachments: MyText
+  HandledBy: 1
+  RootCause: 1
+  ResolutionOwner: MyString
+  ResolutionStatus: MyString
+  ResolvedInProdDate: 2015-08-18 11:20:27
+  EngagementTimeHrMn: MyString
+  JobRecoveredTimeHrMn: MyString
+  AttachmentName: MyString
+  SubmitIssueTimeStamp: 2015-08-18 11:20:27
+  WhenStartWorking: 2015-08-18 11:20:27
+  AOContact: MyString
+  AOReason: MyString
+  TimeToEngage: MyString

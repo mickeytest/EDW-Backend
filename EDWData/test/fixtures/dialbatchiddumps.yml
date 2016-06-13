@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  BatchImportID: 1
+  BatchID: 1
+
+two:
+  BatchImportID: 1
+  BatchID: 1

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ID: 1
+  MID: 1.5
+  Server: MyString
+  LastMTPDate: 2015-08-17 10:48:20
+
+two:
+  ID: 1
+  MID: 1.5
+  Server: MyString
+  LastMTPDate: 2015-08-17 10:48:20

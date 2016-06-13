@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Server: MyString
+  PREC_EVENT_ID: MyString
+  SUCC_EVENT_ID: MyString
+
+two:
+  Server: MyString
+  PREC_EVENT_ID: MyString
+  SUCC_EVENT_ID: MyString

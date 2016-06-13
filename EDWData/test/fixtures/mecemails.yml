@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  t.integer: MyString
+  MECEmailID: 
+  SendEmailTo: 
+  Environment: 
+  WorkDay: 
+  SLAMet: 
+  RollupTime: MyString
+  t.string: MyString
+  Notes: 
+  FromDate: 
+  ToDate: 
+  DraftString: 
+  IssueIDs: MyString
+
+two:
+  t.integer: MyString
+  MECEmailID: 
+  SendEmailTo: 
+  Environment: 
+  WorkDay: 
+  SLAMet: 
+  RollupTime: MyString
+  t.string: MyString
+  Notes: 
+  FromDate: 
+  ToDate: 
+  DraftString: 
+  IssueIDs: MyString

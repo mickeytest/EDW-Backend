@@ -1,0 +1,93 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Status: MyString
+  MasterID: 1
+  BatchID: 1
+  Subject: MyString
+  Action: MyString
+  EscalatetoDevteam: MyString
+  Owner: MyString
+  Environment: MyString
+  Domain: MyString
+  RootCause: MyString
+  ErrorDetails: MyText
+  Date: 2015-08-25 14:54:06
+  TimeFailure: 2015-08-25 14:54:06
+  TimeSucceeded: 2015-08-25 14:54:06
+  TimetoEngage: 1
+  TimetoFix: 1
+  Time_that_AO_called_oncall: 1
+  Time_that_AO_emailed_oncall: 1
+  TimetoReExec: 1
+  InCriticalPath: MyString
+  Expected_MTD: MyString
+  Expected_MTI: MyString
+  Expected_MTP: MyString
+  Actual_MTD: MyString
+  Actual_MTI: MyString
+  Actual_MTP: MyString
+  Instance_Owner: MyString
+  Notes: MyString
+  ApplicationName: MyString
+  EngagementTime: 2015-08-25 14:54:06
+  RecoveryActDesc: MyString
+  Attachments: MyText
+  ResolutionOwner: MyString
+  ResolutionStatus: MyString
+  ResolvedInProdDate: 2015-08-25 14:54:06
+  AttachmentName: MyString
+  SubmitIssueTimeStamp: 2015-08-25 14:54:06
+  WhenStartWorking: 2015-08-25 14:54:06
+  AOContact: MyString
+  AOReason: MyString
+  EngagementTimeHrMn: MyString
+  JobRecoveredTimeHrMn: MyString
+  TimeToEngage_TS: 2015-08-25 14:54:06
+  Time_that_AO_emailed_Oncall_TS: 2015-08-25 14:54:06
+
+two:
+  Status: MyString
+  MasterID: 1
+  BatchID: 1
+  Subject: MyString
+  Action: MyString
+  EscalatetoDevteam: MyString
+  Owner: MyString
+  Environment: MyString
+  Domain: MyString
+  RootCause: MyString
+  ErrorDetails: MyText
+  Date: 2015-08-25 14:54:06
+  TimeFailure: 2015-08-25 14:54:06
+  TimeSucceeded: 2015-08-25 14:54:06
+  TimetoEngage: 1
+  TimetoFix: 1
+  Time_that_AO_called_oncall: 1
+  Time_that_AO_emailed_oncall: 1
+  TimetoReExec: 1
+  InCriticalPath: MyString
+  Expected_MTD: MyString
+  Expected_MTI: MyString
+  Expected_MTP: MyString
+  Actual_MTD: MyString
+  Actual_MTI: MyString
+  Actual_MTP: MyString
+  Instance_Owner: MyString
+  Notes: MyString
+  ApplicationName: MyString
+  EngagementTime: 2015-08-25 14:54:06
+  RecoveryActDesc: MyString
+  Attachments: MyText
+  ResolutionOwner: MyString
+  ResolutionStatus: MyString
+  ResolvedInProdDate: 2015-08-25 14:54:06
+  AttachmentName: MyString
+  SubmitIssueTimeStamp: 2015-08-25 14:54:06
+  WhenStartWorking: 2015-08-25 14:54:06
+  AOContact: MyString
+  AOReason: MyString
+  EngagementTimeHrMn: MyString
+  JobRecoveredTimeHrMn: MyString
+  TimeToEngage_TS: 2015-08-25 14:54:06
+  Time_that_AO_emailed_Oncall_TS: 2015-08-25 14:54:06
